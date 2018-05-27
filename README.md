@@ -6,8 +6,8 @@ The page will be blank, but start typing...once the correct sequence of keys is 
 
 Check out:
 
-[My blog post](add link)
+[My blog post](http://yongclee.com/key-sequence-detection/)
 
 [Codepen](https://codepen.io/whyohengee/pen/yjGwYG)
 
-[Github Pages]()
+[Github Pages](https://whyohengee.github.io/keysequencedetection/)
